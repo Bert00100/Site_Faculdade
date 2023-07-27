@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #121212;
+    overflow: hidden;
+}
+
+
+.felipe h1 {
+    color: black;
+    background-color:  #ffde59;
+    padding: 5px;
+
+}
+
+.felipe p{
+    background-color: #ffde59;
+    padding: 5px;
+    color: #121212;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.roberta h1 {
+    color: black;
+    background-color: #ffde59;
+    padding: 5px;
+
+}
+
+.roberta p{
+    background-color: #ffde59;
+    padding: 5px;
+    color: #121212;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.vitor h1 {
+    color: black;
+    background-color:  #ffde59;
+    padding: 5px;
+
+}
+
+.vitor p{
+    background-color:  #ffde59;
+    padding: 5px;
+    color: #121212;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.Kaua h1 {
+    color: black;
+    background-color: #ffde59;
+    padding: 5px;
+
+}
+
+.Kaua p{
+    background-color:  #ffde59;
+    padding: 5px;
+    color: #121212;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.giovanne h1 {
+    color: black;
+    background-color:  #ffde59;
+    padding: 5px;
+
+}
+
+.giovanne p{
+    background-color:  #ffde59;
+    padding: 5px;
+    color: #121212;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.melo h1 {
+    color: black;
+    background-color:  #ffde59;
+    padding: 5px;
+
+}
+
+.melo p{
+    background-color:  #ffde59;
+    padding: 5px;
+    color: #121212;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.Bianca h1 {
+    color: black;
+    background-color:  #ffde59;
+    padding: 5px;
+
+}
+
+.Bianca p{
+    background-color: #ffde59;
+    padding: 5px;
+    color: #121212;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 40px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .logo{
+    position: relative;
+    max-width: 150px;
+}
+
+header .navegacao ul{
+    position: relative;
+    display: flex;
+}
+
+header .navegacao li{
+    list-style: none;
+}
+
+header .navegacao li a{
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 19px;
+    margin-left: 100px;
+}
